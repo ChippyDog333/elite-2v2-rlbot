@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+data/*.jsonl
+data/*.json
+data/*.tmp
+*.pyc
